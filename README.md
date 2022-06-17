@@ -1,6 +1,12 @@
-# To Run
+# FlashCards 
+
+Inspired on Full Stack path from Codecademy course, the Flashcards project's meaning is making available to create topics, quizzes and flashcards for those quizzes.
 
 Run `npm start` in the project root and the app will be available on port 3000.
+
+# Setup
+
+Download the repositorie. Open the **terminal** and navigate to the downloaded folder. Write **npm start** on terminal. Enjoy! :)
 
 # State
 
